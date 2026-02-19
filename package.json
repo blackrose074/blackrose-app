@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/blackrose074/blackrose-app/issues"
   },
-  "homepage": "https://github.com/blackrose074/blackrose-app#readme"
+  "homepage": "https://github.com/blackrose074/blackrose-app#readme",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  }
 }
